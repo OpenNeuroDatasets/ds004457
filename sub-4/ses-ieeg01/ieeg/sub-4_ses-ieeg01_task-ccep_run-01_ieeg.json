@@ -1,0 +1,27 @@
+{
+	"TaskName": "ccep task with annotations",
+	"SamplingFrequency": 2048,
+	"PowerLineFrequency": 60,
+	"SoftwareFilters": "n/a",
+	"HardwareFilters": {
+		"HighpassFilter": {
+			"CutoffFrequency": 0.01
+		},
+		"LowpassFilter": {
+			"CutoffFrequency": 878
+		}
+	},
+	"ECOGChannelCount": 0,
+	"SEEGChannelCount": 172,
+	"EEGChannelCount": 21,
+	"EOGChannelCount": 0,
+	"ECGChannelCount": 1,
+	"EMGChannelCount": 0,
+	"MiscChannelCount": 0,
+	"TriggerChannelCount": 0,
+	"RecordingDuration": 4126.89,
+	"RecordingType": "continuous",
+	"EpochLength": 0,
+	"iEEGReference": "",
+	"ElectricalStimulation": true
+}
