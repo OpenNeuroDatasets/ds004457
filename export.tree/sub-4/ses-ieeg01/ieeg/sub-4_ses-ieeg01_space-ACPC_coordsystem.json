@@ -1,8 +1,0 @@
-{
-    "IntendedFor": "/derivatives/acpc/sub-4/sub-4_ses-mri01_T1w_acpc_deFaced.nii" ,
-    "iEEGCoordinateSystem": "ACPC",
-    "iEEGCoordinateUnits": "mm",
-    "iEEGCoordinateSystemDescription": "ACPC using SEEGView software repository",
-    "iEEGCoordinateProcessingDescription": "sEEG electrode positions from Curry",
-    "iEEGCoordinateProcessingReference": "H. Huang, G. O. Valencia, D. Hermes and K. J. Miller, A canonical visualization tool for SEEG electrodes, 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), Mexico, 2021, pp. 6175-6178, doi: 10.1109/EMBC46164.2021.9630724."
-}
