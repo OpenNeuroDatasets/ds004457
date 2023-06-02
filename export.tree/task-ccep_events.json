@@ -1,0 +1,56 @@
+{
+    "onset": {
+        "Description": "Onset of the event",
+        "Units": "seconds"
+    },
+    "duration": {
+        "Description": "Duration of the event",
+        "Units": "seconds"
+    },
+    "trial_type": {
+        "Description": "Categorical code referring to stimulus condition",
+        "Levels": {
+            "electrical_stimulation": "electrodes were stimulated during this trial"
+        }
+    },
+    "electrodes_involved_onset": {
+        "Description": "if there were artifacts confined to particular channels"
+    },
+    "electrodes_involved_offset": {
+        "Description": "if there were artifacts confined to particular channels"
+    },
+    "sample_start": {
+        "Description": "Stimulus onset in samples relative to the start of the run"
+    },
+    "sample_end": {
+        "Description": "Stimulus offset in samples relative to the start of the run"
+    },
+    "electrical_stimulation_type": {
+        "Description": "Type of electrical stimulation applied",
+        "Levels": {
+            "biphasic": "biphasic stimulation"
+        }
+    },
+    "electrical_stimulation_site": {
+        "Description": "names of electrodes separated by a - that were stimulated"
+    },
+    "electrical_stimulation_site_num": {
+        "Description": "numbers of electrodes separated by a - that were stimulated"
+    },
+    "electrical_stimulation_current": {
+        "Description": "stimulation current in mA"
+    },
+    "notes": {
+        "Description": "notes on trial"
+    },
+    "status": {
+        "Description": "was a trial good or bad",
+        "Levels": {
+            "good": "trial did not have artifacts",
+            "bad": "trial should be excluded"
+        }
+    },
+    "status_description": {
+        "Description": "comments on status"
+    }
+}
