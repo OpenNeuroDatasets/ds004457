@@ -1,8 +1,0 @@
-{
-    "IntendedFor": "/derivatives/freesurfer/sub-5/sub-5_T1w_deFaced.nii" ,
-    "iEEGCoordinateSystem": "Other",
-    "iEEGCoordinateUnits": "mm",
-    "iEEGCoordinateSystemDescription": "Native space",
-    "iEEGCoordinateProcessingDescription": "sEEG electrode positions from Curry",
-    "iEEGCoordinateProcessingReference": "n/a"
-}
