@@ -2,7 +2,8 @@
 
 This dataset contains intracranial EEG recordings from five patients during single pulse electrical stimulation as described in:
  
-* H Huang, NM Gregg, G Ojeda Valencia, BH Brinkmann, BN Lundstrom, GA Worrell, KJ Miller, and D Hermes (2022) Electrical stimulation of temporal and limbic circuitry produces distinct responses in human ventral temporal cortex. (Under Review)
+* Huang, H., Gregg, N. M., Valencia, G. O., Brinkmann, B. H., Lundstrom, B. N., Worrell, G. A., ... & Hermes, D. (2023). Electrical stimulation of temporal and limbic circuitry produces distinct responses in human ventral temporal cortex. Journal of Neuroscience.
+DOI: https://doi.org/10.1523/JNEUROSCI.1325-22.2023
 
 Please cite this work when using the data. These data were recorded at the Mayo Clinic in Rochester, MN, as part of the NIH Brain Initiative supported project R01 MH122258 "CRCNS: Processing speed in the human connectome across the lifespan". Research reported in this publication was supported by the National Institute Of Mental Health of the National Institutes of Health under Award Number R01MH122258 and by the National Institute of General Medical Sciences of the National Institutes of Health under Award Number T32GM065841. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health. The data was collected by Harvey Huang, Dora Hermes, Nick Gregg, Brian Lundstrom, Cindy Nelson, Gregg Worrell and Kai J. Miller. The BIDS formatting was performed by Harvey Huang, Dora Hermes and Gabriela Ojeda Valencia. 
 
